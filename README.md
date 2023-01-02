@@ -6,3 +6,4 @@
 - [PyTorch](https://github.com/JakeAndTheRobot/how-to-use/blob/main/pyTorch.md)
 - [Terminal](https://github.com/JakeAndTheRobot/how-to-use/blob/main/terminal.md)
 - [VIM](https://github.com/JakeAndTheRobot/how-to-use/blob/main/vim.md)
+- [VSCode shortcuts](https://github.com/JakeAndTheRobot/how-to-use/blob/main/vscode-keyboard-shortcuts.md)
