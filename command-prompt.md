@@ -6,39 +6,38 @@ To open Command Prompt, you can type "command prompt" into the search bar on you
 
 Once you have the Command Prompt open, you can type in commands and press Enter to execute them. Some common commands include:
 
-"dir" - this lists the files and directories in the current directory
-"cd" - this allows you to change the current directory
-"type" - this allows you to view the contents of a text file
-"copy" - this allows you to copy files
-"del" - this allows you to delete files
-There are many more commands available in Command Prompt, and you can find out more about them by typing "help" into the Command Prompt window and pressing Enter. You can also find many resources online that can provide more information about using Command Prompt.
-
-| Command | Description |
-|---------|-------------|
-| `dir`   | Lists the files and directories in the current directory |
-| `cd`    | Changes the current directory |
-| `md`    | Makes a new directory |
-| `echo`  | Prints a message |
-| `type`  | Displays the contents of a file |
-| `copy`  | Copies a file |
-| `xcopy` | Copies a directory and its contents |
-| `ren`   | Renames a file or directory |
-| `del`   | Deletes a file |
-| `rmdir` | Deletes a directory |
-| `cls`   | Clears the screen |
-| `chdir` | Changes the current directory |
-| `md`    | Makes a new directory |
-| `rd`    | Removes a directory |
-| `find`  | Searches for a file or directory |
-| `ver`   | Displays the version of Windows |
-| `help`  | Displays help for a command |
-| `pause` | Pauses the command prompt until you press a key |
-| `exit`  | Closes the command prompt |
-| `set` | Display or set environment variables |
-| `path` | Display or set the path |
-| `start` | Open a file or run a command in a new window |
-| `assoc` | Display or set file associations |
-| `ftype` | Display or set file types that are associated with a file extension |
+| Command       | Description |
+|---------------|-------------|
+| `dir`         | Lists the files and directories in the current directory |
+| `cd`          | Changes the current directory |
+| `copy`        | Copies a file |
+| `xcopy`       | Copies a directory and its contents |
+| `del`         | Deletes a file |
+| `rmdir`       | Deletes a directory |
+| `cls`         | Clears the screen |
+| `type`        | Displays the contents of a file |
+| `ren`         | Renames a file or directory |
+| `md`          | Makes a new directory |
+| `find`        | Searches for a file or directory |
+| `echo`        | Prints a message |
+| `chdir`       | Changes the current directory |
+| `rd`          | Removes a directory |
+| `ver`         | Displays the version of Windows |
+| `help`        | Displays help for a command |
+| `pause`       | Pauses the command prompt until you press a key |
+| `exit`        | Closes the command prompt |
+| `netstat`     | Displays active TCP connections and their status |
+| `ping`        | Tests the connection to a specified network host |
+| `ipconfig`    | Displays the current TCP/IP network configuration |
+| `tracert`     | Traces the route taken by packets to a specified network host |
+| `tasklist`    | Displays a list of currently running processes |
+| `taskkill`    | Terminates a running process |
+| `systeminfo`  | Displays system information |
+| `shutdown`    | Shuts down or restarts a local or remote computer |
+| `sfc`         | Scans and repairs system files |
+| `reg`         | Manages the registry |
+| `net`         | Manages network resources |
+| `msconfig`    | Configures system startup options |
 
 | Argument | Description |
 |----------|-------------|
