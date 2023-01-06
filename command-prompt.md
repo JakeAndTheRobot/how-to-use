@@ -15,14 +15,25 @@ There are many more commands available in Command Prompt, and you can find out m
 
 | Command | Description |
 |---------|-------------|
-| `cd` | Change the current directory |
-| `dir` | List the files and directories in the current directory |
-| `type` | View the contents of a text file |
-| `copy` | Copy files |
-| `xcopy` | Copy directories and subdirectories, including empty ones |
-| `del` | Delete files |
-| `rd` | Delete directories |
-| `echo` | Display a message |
+| `dir`   | Lists the files and directories in the current directory |
+| `cd`    | Changes the current directory |
+| `md`    | Makes a new directory |
+| `echo`  | Prints a message |
+| `type`  | Displays the contents of a file |
+| `copy`  | Copies a file |
+| `xcopy` | Copies a directory and its contents |
+| `ren`   | Renames a file or directory |
+| `del`   | Deletes a file |
+| `rmdir` | Deletes a directory |
+| `cls`   | Clears the screen |
+| `chdir` | Changes the current directory |
+| `md`    | Makes a new directory |
+| `rd`    | Removes a directory |
+| `find`  | Searches for a file or directory |
+| `ver`   | Displays the version of Windows |
+| `help`  | Displays help for a command |
+| `pause` | Pauses the command prompt until you press a key |
+| `exit`  | Closes the command prompt |
 | `set` | Display or set environment variables |
 | `path` | Display or set the path |
 | `start` | Open a file or run a command in a new window |
